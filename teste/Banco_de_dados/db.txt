@@ -1,0 +1,35 @@
+
+NOME: Allfa
+EMAIL: andersonptsn@yahoo.com.br
+SENHA: 123
+TELEFONE: 6445645
+NÍVEL: Admin_master
+DATA: 2019-10-13 01:30:16
+
+NOME: Allfa
+EMAIL: andersonptsn123@yahoo.com.br
+SENHA: 123
+TELEFONE: 6445645
+NÍVEL: Usuario
+DATA: 2019-10-13 02:11:21
+
+NOME: Allfa
+EMAIL: andersonptsn4@yahoo.com.br
+SENHA: 1234
+TELEFONE: 123
+NÍVEL: Usuario
+DATA: 2019-10-13 10:02:17
+
+NOME: Allfa
+EMAIL: aandersonptsn@yahoo.com.br
+SENHA: 123
+TELEFONE: 6445645
+NÍVEL: Usuario
+DATA: 2019-10-13 23:57:39
+
+NOME: Allfa
+EMAIL: andersonpts23213n@yahoo.com.br2
+SENHA: qwe
+TELEFONE: 6445645
+NÍVEL: Usuario
+DATA: 2019-10-13 23:58:21

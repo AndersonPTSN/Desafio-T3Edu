@@ -1,0 +1,120 @@
+
+EMAIL: andersonptsn@yahoo.com.br
+STATUS: Login
+DATA: 2019-10-13 23:26:44
+
+EMAIL: andersonptsn@yahoo.com.br
+STATUS: Logoff
+DATA: 2019-10-13 23:26:45
+
+EMAIL: andersonptsn@yahoo.com.br
+STATUS: Login
+DATA: 2019-10-13 23:27:58
+
+EMAIL: andersonptsn@yahoo.com.br
+STATUS: Logoff
+DATA: 2019-10-13 23:27:59
+
+EMAIL: andersonptsn@yahoo.com.br
+STATUS: Login
+DATA: 2019-10-13 23:30:00
+
+EMAIL: andersonptsn@yahoo.com.br
+STATUS: Logoff
+DATA: 2019-10-13 23:38:52
+
+EMAIL: andersonptsn@yahoo.com.br
+STATUS: Login
+DATA: 2019-10-13 23:38:57
+
+EMAIL: andersonptsn@yahoo.com.br
+STATUS: Logoff
+DATA: 2019-10-13 23:56:36
+
+EMAIL: andersonptsn@yahoo.com.br
+STATUS: Logoff
+DATA: 2019-10-14 00:36:36
+
+EMAIL: andersonptsn123@yahoo.com.br
+STATUS: Login
+DATA: 2019-10-14 00:36:41
+
+EMAIL: andersonptsn123@yahoo.com.br
+STATUS: Logoff
+DATA: 2019-10-14 00:37:41
+
+EMAIL: andersonptsn@yahoo.com.br
+STATUS: Login
+DATA: 2019-10-14 00:37:44
+
+EMAIL: andersonptsn@yahoo.com.br
+STATUS: Logoff
+DATA: 2019-10-14 00:38:26
+
+EMAIL: andersonptsn123@yahoo.com.br
+STATUS: Login
+DATA: 2019-10-14 00:38:57
+
+EMAIL: andersonptsn123@yahoo.com.br
+STATUS: Logoff
+DATA: 2019-10-14 00:39:08
+
+EMAIL: andersonptsn@yahoo.com.br
+STATUS: Login
+DATA: 2019-10-14 00:39:12
+
+EMAIL: andersonptsn@yahoo.com.br
+STATUS: Logoff
+DATA: 2019-10-14 00:39:52
+
+EMAIL: andersonptsn123@yahoo.com.br
+STATUS: Login
+DATA: 2019-10-14 00:39:56
+
+EMAIL: andersonptsn123@yahoo.com.br
+STATUS: Logoff
+DATA: 2019-10-14 00:41:43
+
+EMAIL: andersonptsn@yahoo.com.br
+STATUS: Login
+DATA: 2019-10-14 00:42:20
+
+EMAIL: andersonptsn@yahoo.com.br
+STATUS: Logoff
+DATA: 2019-10-14 00:48:27
+
+EMAIL: andersonptsn@yahoo.com.br
+STATUS: Login
+DATA: 2019-10-14 00:52:34
+
+EMAIL: andersonptsn@yahoo.com.br
+STATUS: Logoff
+DATA: 2019-10-14 00:53:49
+
+EMAIL: andersonptsn@yahoo.com.br
+STATUS: Login
+DATA: 2019-10-14 00:54:31
+
+EMAIL: andersonptsn@yahoo.com.br
+STATUS: Logoff
+DATA: 2019-10-14 01:07:51
+
+EMAIL: andersonptsn@yahoo.com.br
+STATUS: Login
+DATA: 2019-10-14 01:11:09
+
+EMAIL: andersonptsn@yahoo.com.br
+STATUS: Logoff
+DATA: 2019-10-14 01:11:12
+
+EMAIL: andersonptsn@yahoo.com.br
+STATUS: Login
+DATA: 2019-10-16 21:25:47
+
+EMAIL: andersonptsn@yahoo.com.br
+STATUS: Login
+DATA: 2019-10-16 21:27:10
+
+EMAIL: andersonptsn@yahoo.com.br
+STATUS: Logoff
+DATA: 2019-10-16 21:27:41

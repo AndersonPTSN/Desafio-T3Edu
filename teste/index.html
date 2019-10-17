@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8">
+		<title>Teste PHP</title>
+		<style>
+			body {
+			  font-family: arial, sans-serif;
+			  border-collapse: collapse;
+			  text-align: left;
+			  padding: 10px;
+			}
+		</style>
+	</head>
+	<body>
+		<form action="enviar.php" method="POST" id="form" name="form">
+			<fieldset>
+    			<legend><h2>Login:</h2></legend>
+
+				<input type="email" name="email" placeholder="E-mail" id="email">
+				</br></br>
+				<input type="password" name="senha" placeholder="Senha" id="senha">
+				</br></br>
+
+				<input type="submit" value="enviar" onClick="Verificar_Campos_login()"> </br>
+				<p>Não possui conta? </p><a href="cadastro.html">Clique aqui</a>
+
+				<script src="JS/script.js"></script>
+
+			</fieldset>
+		</form>
+	</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8">
+		<title>Teste PHP</title>
+		<style>
+			body {
+			  font-family: arial, sans-serif;
+			  border-collapse: collapse;
+			  text-align: left;
+			  padding: 10px;
+			}
+		</style>
+	</head>
+	<body>
+		<form action="cadastrar.php" method="POST" id="form" name="form">
+			<fieldset>
+    			<legend><h2>Formulário:</h2></legend>
+				<input type="text" name="nome" placeholder="Nome" id="nome">
+				</br></br>
+				<input type="email" name="email" placeholder="E-mail" id="email">
+				</br></br>
+				<input type="text" name="telefone" placeholder="Telefone" id="telefone">
+				</br></br>
+				<input type="password" name="senha" placeholder="Senha" id="senha">
+				</br></br>
+				<select name="nivel_de_acesso">
+                <option name="nivel_de_acesso" value="Usuario">Usuário</option>
+                <option name="nivel_de_acesso" value="Cliente">Cliente</option>
+                <option name="nivel_de_acesso" value="Financeiro">Financeiro</option>
+                <option name="nivel_de_acesso" value="T.I">T.I</option>
+                <option name="nivel_de_acesso" value="Admin_master">Admin master</option>
+				</br>
+				<input type="submit" value="enviar" onClick="Verificar_Campos()"> 
+				<a href="index.html">Voltar</a>
+
+				<script src="JS/script.js"></script>
+
+			</fieldset>
+		</form>
+	</body>
+</html>
